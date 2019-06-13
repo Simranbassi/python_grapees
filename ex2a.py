@@ -1,0 +1,12 @@
+n1=int(input("ENTER THE FIRST NUMBER:  "))
+n2=int(input("ENTER THE SECOND NUMBER:  "))
+n3=int(input("ENTER THE THIRD NUMBER:  "))
+n4=int(input("ENTER THE FOURTH NUMBER:  "))
+n5=int(input("ENTER THE FIFTH NUMBER:  "))
+n6=int(input("ENTER THE SIXTH NUMBER:  "))
+n7=int(input("ENTER THE SEVENTH NUMBER:  "))
+n8=int(input("ENTER THE EIGHTH NUMBER:  "))
+n9=int(input("ENTER THE NINTH  NUMBER:  "))
+n10=int(input("ENTER THE TENTH NUMBER:  "))
+answer=n1+n2+n3+n4+n5+n6+n7+n8+n9+n10
+print("the sum of first ten digits is:",answer)

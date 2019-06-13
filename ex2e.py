@@ -1,0 +1,5 @@
+print("enter the two angles of a triangle")
+first=int(input("the first angle of the triangle is: "))
+second=int(input("the second angle of the triangle0 is: "))
+third=180-(first+second)
+print("the third angle of the triangle  is :",third)
